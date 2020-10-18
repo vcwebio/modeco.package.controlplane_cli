@@ -2,7 +2,7 @@
 
 # START CONFIGURATION
 export CONTECO_DC_GLOBAL_PACKAGE_CONTECO="controlplane.cli"
-export CONTECO_DC_GLOBAL_PACKAGE_TAG="v2.0.7"
+export CONTECO_DC_GLOBAL_PACKAGE_TAG="v2.0.16"
 export CONTECO_DC_GLOBAL_STACKNAMES="controlplane_cli"
 export CONTECO_DC_GLOBAL_BOOTSTACKS="controlplane_cli"
 export CONTECO_DC_GLOBAL_RUNSTACKS="controlplane_cli"
